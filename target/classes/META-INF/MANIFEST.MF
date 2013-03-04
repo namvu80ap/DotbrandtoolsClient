@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 1.6.0_22
+Class-Path: lib/spring-shell-1.0.0.RELEASE.jar lib/spring-context-supp
+ ort-3.1.2.RELEASE.jar lib/jline-1.0.S2-B.jar lib/jansi-1.8.jar lib/sp
+ ring-core-3.1.2.RELEASE.jar lib/spring-asm-3.1.2.RELEASE.jar lib/log4
+ j-1.2.16.jar lib/javax.inject-1.jar lib/commons-collections-3.2.1.jar
+  lib/commons-beanutils-core-1.8.2.jar lib/commons-logging-1.1.1.jar l
+ ib/commons-configuration-1.6.jar lib/commons-digester-1.8.jar lib/com
+ mons-beanutils-1.7.0.jar lib/commons-io-2.3.jar lib/commons-lang-2.6.
+ jar lib/commons-net-3.1.jar lib/slf4j-api-1.5.10.jar lib/jcl-over-slf
+ 4j-1.5.10.jar lib/slf4j-log4j12-1.5.10.jar lib/mongo-java-driver-2.9.
+ 0.jar lib/spring-data-mongodb-1.1.0.BUILD-20121010.122556-112.jar lib
+ /spring-tx-3.1.2.RELEASE.jar lib/aopalliance-1.0.jar lib/spring-conte
+ xt-3.1.2.RELEASE.jar lib/spring-beans-3.1.2.RELEASE.jar lib/spring-ex
+ pression-3.1.2.RELEASE.jar lib/spring-data-commons-core-1.4.0.RELEASE
+ .jar lib/cglib-2.2.2.jar lib/asm-3.3.1.jar lib/spring-data-mongodb-lo
+ g4j-1.0.3.RELEASE.jar lib/gson-2.2.2.jar lib/jstl-1.2.jar lib/spring-
+ security-taglibs-3.1.2.RELEASE.jar lib/spring-security-acl-3.1.2.RELE
+ ASE.jar lib/spring-jdbc-3.0.7.RELEASE.jar lib/spring-aop-3.0.7.RELEAS
+ E.jar lib/spring-web-3.0.7.RELEASE.jar lib/spring-security-core-3.1.2
+ .RELEASE.jar lib/spring-security-web-3.1.2.RELEASE.jar
+Main-Class: org.springframework.shell.Bootstrap
+Created-By: Maven Integration for Eclipse
+version: 0.0.1
+
